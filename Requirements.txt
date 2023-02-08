@@ -1,9 +1,0 @@
-pandas
-selenium
-matplotlib
-seaborn
-scikit-learn
-statsmodels
-```
-
-## Usage
